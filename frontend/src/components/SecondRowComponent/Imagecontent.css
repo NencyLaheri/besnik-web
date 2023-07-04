@@ -1,0 +1,42 @@
+.ig img
+{
+    width: 595px;
+    background: transparent;
+   
+}
+/* .typoClass
+{
+    font-family: myFirstFont1;
+} */
+.cardClass
+{
+    position:absolute;
+    width: 290px;
+    height: 330px;
+    left: 1360px;
+    top: 500px;
+    
+}
+.cardImage
+{
+    height: 180px;
+    padding: 15px;
+    border-radius: 22px;
+}
+span{
+    padding-inline-end: 10px;
+    padding-inline-start: 3px;
+}
+@font-face {
+    font-family: myFirstFont1;
+    src: url('../../fonts/LTInternet-Regular.ttf');
+  }
+.igClass
+{
+    width: 100px;
+}
+.iconClass
+{
+    color: #2289FF;
+    padding: 5px;
+}

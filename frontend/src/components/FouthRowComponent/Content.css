@@ -1,0 +1,31 @@
+.t1Class
+{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #0F2B4A;
+    text-align: left;
+}
+.t2Class
+{
+    font-family: 'Roboto';
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    color: #576B81;
+    
+}
+.dropdClass
+{
+    width: 230px;
+}
+.sp
+{
+    height: 55px;
+    width: 230px;
+}
+.sp:hover
+{
+    background-color: white;
+    color: #007bff;
+}
